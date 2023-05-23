@@ -13,4 +13,4 @@ Whether you're preparing for the CCNA exam or aiming to enhance your networking 
 * Active Community:
 Start exploring the labs today and embark on an exciting journey towards mastering enterprise and service provider networking concepts. Happy labbing
 
-https://github.com/JoramGranger/CCNA-LABS/blob/main/LAB%20001.md
+[LAB 001 - Basic Device Configuration](https://github.com/JoramGranger/CCNA-LABS/blob/main/LAB%20001.md)
