@@ -1,7 +1,7 @@
 # CCNA-LABS
-Welcome to the CCNA Labs repository! This GitHub repository is designed to provide aspiring network professionals, students, and enthusiasts with a vast collection of hands-on labs that cover various topics related to the Cisco Certified Network Associate (CCNA) certification.
+Welcome to this repository! designed to provide aspiring network professionals, students, and enthusiasts with a vast collection of hands-on labs that cover various topics related to the Cisco Certified Network Associate (CCNA) certification.  
 
-Whether you're preparing for the CCNA exam or aiming to enhance your networking skills, this repository offers an extensive selection of practical lab exercises, each carefully crafted to reinforce your understanding of essential networking concepts. By actively engaging in these labs, you'll gain invaluable hands-on experience that will empower you to confidently tackle real-world networking scenarios.
+This repository offers an extensive selection of practical lab exercises, each carefully crafted to reinforce your understanding of essential networking concepts. By actively engaging in these labs, you'll gain invaluable hands-on experience that will empower you to confidently tackle real-world networking scenarios.
 
 ## Key Features:
 
