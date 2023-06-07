@@ -16,4 +16,4 @@ Start exploring the labs today and embark on an exciting journey towards masteri
 ## Table of Contents
 
 1. [LAB 001 - Basic Device Configuration](https://github.com/JoramGranger/CCNA-LABS/blob/main/LAB%20001.md)
-2. [LAB 002 - Basic IP network with Manual Addressing & DHCP](https://github.com/JoramGranger/CCNA-LABS/blob/main/LAB%20001.md)
+2. [LAB 002 - Basic IP network with Manual Addressing & DHCP](https://github.com/JoramGranger/CCNA-LABS/blob/main/LAB%20002.md)
